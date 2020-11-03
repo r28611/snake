@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7355042C-00E5-47A2-929C-1C95E5B30F12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Snake/VerticalLine.cs">
+    <Files>
+      <File FileName="Snake/Point.cs" Line="28" Column="1" />
+      <File FileName="Snake/Program.cs" Line="15" Column="1" />
+      <File FileName="Snake/VerticalLine.cs" Line="9" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snake" expanded="True">
+            <Node name="Snake" expanded="True">
+              <Node name="VerticalLine.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Snake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
